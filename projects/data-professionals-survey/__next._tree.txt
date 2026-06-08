@@ -1,4 +1,4 @@
 :HL["/analytics-portfolio/_next/static/chunks/0he0alq71pua3.css","style"]
 :HL["/analytics-portfolio/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["https://lh3.googleusercontent.com/sitesv/AA5AbUCk18X-UfrZeMs3FWL9vF3Pot2g0lRH52vhRoN1rUHPTuwdmhOY9wMgndDp6VpeD3OrrnsAfSbl8T3dFrjAnOJownPEYcvm-QxG7I5sjvL-HenYxFvcfGztK5pVKsoyJzlAjdoxwHnqYCACu-QRsi_z0mrKVdiZWLLM0k0PP1WyE2YqqIDUkVMU2k1yoSvxryo5uWj-zSnFgV6hFeDsfw8gEr0nZ04Qx2T4=w1280","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"data-professionals-survey","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QdY5UPfzaLBv-fTICalZD"}
+:HL["/analytics-portfolio/images/data-survey-dashboard.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"data-professionals-survey","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gc9ArXGiQy1hXOTEBrXpc"}
